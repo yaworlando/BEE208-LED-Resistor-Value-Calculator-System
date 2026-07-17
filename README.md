@@ -119,6 +119,6 @@ NAMES OF STUDENTS AND THEIR ID'S
 5. ⁠Richmond Aidoo 01245869B
 6. ⁠Boakoh Samuel Okyere 01245186B -pseudocode writer
 7. ⁠ISSIF kamaldeen 01246507B -documentation
-8. Akatey Anita 01240064B 
+8. Akatey Anita 01240064B -Testing Lead
 9. Manieson Nathaniel 01246276B
 10. ⁠Dzobo Edward Orlando Yaw-01243978B -github manager
