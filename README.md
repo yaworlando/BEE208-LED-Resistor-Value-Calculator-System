@@ -112,13 +112,13 @@ Finally, it saves all calculations into led_resistor_report.txt.
 
 NAMES OF STUDENTS AND THEIR ID'S
 
-1. Assah Obed Gyan
-2. ⁠Kumi kelvin 01246629B
-3. Genevieve Welbeck 01244449B
-4. Janet Owusuaa Appiah  01243119B
+1. Assah Obed Gyan -Project Lead
+2. ⁠Kumi kelvin 01246629B -c++ code writer
+3. Genevieve Welbeck 01244449B -c++ code writer
+4. Janet Owusuaa Appiah  01243119B -algorithm writer
 5. ⁠Richmond Aidoo 01245869B
-6. ⁠Boakoh Samuel Okyere 01245186B
-7. ⁠ISSIF kamaldeen 01246507B
+6. ⁠Boakoh Samuel Okyere 01245186B -pseudocode writer
+7. ⁠ISSIF kamaldeen 01246507B -documentation
 8. Akatey Anita 01240064B 
 9. Manieson Nathaniel 01246276B
-10. ⁠Dzobo Edward Orlando Yaw-01243978B
+10. ⁠Dzobo Edward Orlando Yaw-01243978B -github manager
