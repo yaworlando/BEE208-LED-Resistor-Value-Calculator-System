@@ -88,7 +88,13 @@ The program validates the inputs.
 If the values are invalid, an error message is displayed.
 If they are valid, the resistor value and power are calculated.
 The results are displayed and saved before the program ends.
+
+ Conclusion
  
+In conclusion, our project successfully calculates the correct resistor value and power rating for LED circuits.
+It also checks whether the design is safe before the circuit is built.
+This application helps students avoid damaging LEDs and improves the accuracy of circuit design.
+
 Demonstration
 
 Our program asks the user to enter:
