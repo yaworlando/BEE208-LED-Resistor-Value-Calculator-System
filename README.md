@@ -15,8 +15,11 @@ Excessive current flowing through the LED.
 Damage to the LED.
 Poor circuit performance.
 Our project provides a simple and accurate way to calculate the correct resistor value before building the circuit.
+
 Aim of the Project
+
 The aim of this project is to design and implement a C++ program that calculates the recommended resistor value for an LED circuit and provides safety guidance to the user.
+
 
 Objectives
 
