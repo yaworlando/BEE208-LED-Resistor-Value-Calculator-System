@@ -4,6 +4,7 @@ Topic
 
 LED Resistor Value Calculator System
 Introduction
+
 A Light Emitting Diode (LED) is one of the most commonly used electronic components in electrical and electronic circuits. However, LEDs require a current-limiting resistor to prevent excessive current from flowing through them. If the correct resistor is not used, the LED may become damaged or fail to operate properly.
 To solve this problem, we developed a C++ application that calculates the correct resistor value and power rating based on user input.
 
